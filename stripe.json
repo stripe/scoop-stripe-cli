@@ -1,12 +1,12 @@
 {
-    "version": "1.2.4",
+    "version": "1.2.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/stripe/stripe-cli/releases/download/v1.2.4/stripe_1.2.4_windows_x86_64.zip",
+            "url": "https://github.com/stripe/stripe-cli/releases/download/v1.2.5/stripe_1.2.5_windows_x86_64.zip",
             "bin": [
                 "stripe.exe"
             ],
-            "hash": "5c1c067265383f20f1c5dedc7f20470b523341590a1b1d34a7d08d1f6de523cd"
+            "hash": "09b425507fb6d30575c4c98df3013c80d550542ecddf9189b8f940de240fbf1a"
         }
     },
     "homepage": "https://stripe.com",
