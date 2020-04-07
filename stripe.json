@@ -4,7 +4,7 @@
         "64bit": {
             "url": "https://github.com/stripe/stripe-cli/releases/download/v1.3.9/stripe_1.3.9_windows_x86_64.zip",
             "bin": [
-                "stripe.exe.exe"
+                "stripe.exe"
             ],
             "hash": "a3167e0849d526700eafdf85b065ae3894636d25c31edb28cec8e700fd5fe96b"
         }
