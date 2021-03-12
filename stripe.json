@@ -6,14 +6,14 @@
             "bin": [
                 "stripe.exe"
             ],
-            "hash": "6285c5893c828b29bc0b85683e384da4d89f6555dcc17a9dfac01551521443f7"
+            "hash": "9d871f20a523baed1983a9f4cd5a9a3edaa2b603eea171348ed2a91d7fda0c58"
         },
         "64bit": {
             "url": "https://github.com/stripe/stripe-cli/releases/download/v1.5.10/stripe_1.5.10_windows_x86_64.zip",
             "bin": [
                 "stripe.exe"
             ],
-            "hash": "ec28643ed0476c7bcaa3b6dcf6e4d70e35e1a65c1f95d000739cfd28b514867d"
+            "hash": "d2fdfe14725a318eeddcde61c6eb78fb84c7d9d67ff7f65eaa261215c3d4da58"
         }
     },
     "homepage": "https://stripe.com",
