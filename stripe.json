@@ -1,19 +1,19 @@
 {
-    "version": "1.7.5",
+    "version": "1.7.6",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/stripe/stripe-cli/releases/download/v1.7.5/stripe_1.7.5_windows_i386.zip",
+            "url": "https://github.com/stripe/stripe-cli/releases/download/v1.7.6/stripe_1.7.6_windows_i386.zip",
             "bin": [
                 "stripe.exe"
             ],
-            "hash": "9d4d2b209a9d7a556df8089bdd54aac5c81b647917f44fe5366219dc75491229"
+            "hash": "41dfab638887fac00215ab9e0813071f87b8d13d497c9f383d27ffbfe988fdac"
         },
         "64bit": {
-            "url": "https://github.com/stripe/stripe-cli/releases/download/v1.7.5/stripe_1.7.5_windows_x86_64.zip",
+            "url": "https://github.com/stripe/stripe-cli/releases/download/v1.7.6/stripe_1.7.6_windows_x86_64.zip",
             "bin": [
                 "stripe.exe"
             ],
-            "hash": "53aef939268dbdf8bb8406d07be30988a9bf4cd8460cf20c548769f990e05316"
+            "hash": "67864e666b87b2e3781584874e2f89ab442136ad68b124d6c3d7d60789a2e87e"
         }
     },
     "homepage": "https://stripe.com",
